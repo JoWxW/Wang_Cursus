@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/addModule"
+        android:title="@string/add_module"/>
+    <item android:id="@+id/delModule"
+        android:title="@string/delet_module" />
+    <item android:id="@+id/listSigle"
+        android:title="@string/list_sigle" />
+    <item android:id="@+id/listModule"
+        android:title="@string/list_module" />
+</menu>
